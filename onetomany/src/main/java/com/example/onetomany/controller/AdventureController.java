@@ -23,7 +23,7 @@ public class AdventureController {
     @Autowired
 
     private AdventureService adventureService;
-     @PostMapping("/Adventure")
+    @PostMapping("/Adventure")
     public ResponseEntity<?> postMethodName(@RequestBody Adventure adventure) {
         return adventureService.postMethod(adventure);
     }

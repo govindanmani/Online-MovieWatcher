@@ -1,0 +1,13 @@
+com\example\onetomany\service\LoginService.class
+com\example\onetomany\service\ActionService.class
+com\example\onetomany\service\HorrorService.class
+com\example\onetomany\service\ScienceService.class
+com\example\onetomany\service\ComedyService.class
+com\example\onetomany\service\AnimationService.class
+com\example\onetomany\service\FantsyService.class
+com\example\onetomany\service\RomanceService.class
+com\example\onetomany\service\AdventureService.class
+com\example\onetomany\service\MistryService.class
+com\example\onetomany\service\MovieService.class
+com\example\onetomany\service\ThrillerService.class
+com\example\onetomany\OnetomanyApplication.class
