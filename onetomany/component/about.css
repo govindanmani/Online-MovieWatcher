@@ -1,0 +1,23 @@
+.www {
+  width: 1000px;
+  background-color: whitesmoke;
+  margin: auto;
+}
+.about6 {
+  width: 800px;
+  height: 90%;
+  margin: auto;
+  line-height: 25px;
+}
+#yy {
+  color: darkkhaki;
+}
+li {
+  color: black;
+}
+p {
+  margin-left: 10px;
+}
+#aq {
+  margin-left: 40px;
+}

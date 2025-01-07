@@ -1,0 +1,57 @@
+.aboutcont{
+    display: flex;
+    border: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.aboutcont img{
+    height: 330px;
+ }  
+ .dad
+ {
+    margin-left: 100px;
+    font-weight: 900;
+    font-size: larger;
+ }
+ .cont img{
+    height: 10px;
+ }
+ .heee
+ {
+    background-color: aliceblue;
+ }
+ 
+ .change
+ {
+   background-image: url("https://www.hollywoodreporter.com/wp-content/uploads/2023/12/Robert-Downey-Jr-Avengers-Endgame-Everett-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563");
+   color:white;
+    margin-top: -40px;
+    padding-top: 500px;
+    text-align: center;
+    padding-bottom:20px ;
+    width: 900px;
+    margin: auto;
+    max-width: 900px;
+    margin-top:20px;
+
+ }
+ .arrangement
+ {
+   width: 900px;
+   height: 2650px;
+   flex-direction: column;
+   justify-content:center;
+   margin: auto;
+   max-width: 900px;
+   margin-top:20px;
+   border-radius: 30px;
+   
+ }
+ #oo
+ {
+   font-weight:500;
+   font-size:x-large;
+   word-spacing: 3px;
+   margin-left: 30px;
+ }
+ 

@@ -1,0 +1,33 @@
+.hole{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
+    gap:140px;
+    row-gap: 40px;
+    color: aliceblue;
+}
+.hole .topic{
+    border-radius: 10px;
+    border: 10px;
+    background-color:grey;
+    text-align: center;
+    padding:30px 20px ;
+    background-color:black;
+    color: aliceblue;
+    margin-top: 5px;
+    height: 750px;
+    width: 400px;
+    gap: 60px;
+}
+.hole .topic #para{
+       font-size: x-large;
+       font-weight: 600;
+       border-radius: 10px;
+       border: 10px;
+    }
+    .img
+    {
+        width: 200px;
+    }
+.hole .topic .oo{
+    margin-bottom: -100px;
+}

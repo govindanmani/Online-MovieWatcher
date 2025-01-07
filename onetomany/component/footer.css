@@ -1,0 +1,40 @@
+.container41
+{
+     height: 560px;
+    width: 100%;
+    background-color:black;
+    margin-top: 45px;
+     
+}
+.final_box1{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    margin-left: 20px;
+}
+.final11
+{
+    margin-top: 6%;
+    list-style: none;
+    font-size: large;
+    font-weight:900;
+     padding-left: 10px;
+
+}
+.final11 > li
+{
+    padding-top:24px;
+    color: aliceblue;
+    
+}
+.final1 a{
+    font-size: 20%;
+    word-spacing: 20px;
+    
+}
+.final11 li
+{
+      color: aliceblue;
+}
+li{
+    color: aliceblue;
+}

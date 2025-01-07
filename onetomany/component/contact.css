@@ -1,0 +1,28 @@
+.conatct1
+{
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+    background-color: aliceblue;
+}
+.contact
+{
+   margin-left: -10px;
+   width: 500px;
+   margin: auto;
+}
+.contact img{
+    width: 700px;
+    margin-left: -100px;
+}
+h6{
+    word-spacing: 3px;
+    font-size: x-large;
+    margin-left: 20px;
+
+}
+
+.p{
+    margin: auto;
+    padding-left: 200px;
+}

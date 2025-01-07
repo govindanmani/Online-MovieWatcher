@@ -1,0 +1,40 @@
+/* .uuuu
+{
+    display: flex;
+    width:100px;
+    height: 200px;
+} */
+.appa
+{
+    margin-left: 20px;
+}
+.amma
+{
+    margin-left: 40px;
+}
+.kkk
+{
+    /* display: flex; */
+    width: 100%;
+    height: 100vh;
+}
+.dad
+{
+    display: flex;
+    width: 200px;
+    height: 500px;
+    gap: 100px;
+}
+
+.oo1
+{
+    
+    width: 200px;
+    height: 50px;
+}
+.sis
+{
+    /* margin-left: 30px; */
+    /* margin-top: 30px; */
+    margin-left: 70px;
+}
